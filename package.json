@@ -5,7 +5,7 @@
     "version": "0.1.8",
     "publisher": "waderyan",
     "engines": {
-        "vscode": "^1.10.0"
+       "vscode": "^1.26.0"
     },
     "icon": "nodejs-dark-icon.png",
     "galleryBanner": {
@@ -27,7 +27,7 @@
     "bugs": {
         "url": "https://github.com/waderyan/nodejs-extension-pack/issues"
     },
-    "extensionDependencies": [
+    "extensionPack": [
         "dbaeumer.vscode-eslint",
         "xabikos.javascriptsnippets",
         "jasonnutter.search-node-modules",
