@@ -12,6 +12,7 @@ These are some of my favorite extensions to make Node.js development easier and 
 * [Search node_modules](https://marketplace.visualstudio.com/items?itemName=jasonnutter.search-node-modules) - Quickly search for node modules in your project. 
 * [NPM IntelliSense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) - Adds IntelliSense for npm modules in your code. 
 * [Path IntelliSense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Autocompletes filenames in your code. 
+* [goto node modules](https://marketplace.visualstudio.com/items?itemName=ravenq.vscode-goto-node-modules) - Goto node modules from js code. 
 
 ## Want to see your extension added?
 
