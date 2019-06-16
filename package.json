@@ -33,6 +33,7 @@
         "jasonnutter.search-node-modules",
         "eg2.vscode-npm-script",
         "christian-kohler.npm-intellisense",
-        "christian-kohler.path-intellisense"
+        "christian-kohler.path-intellisense",
+        "ravenq.vscode-goto-node-modules"
     ]
 }
