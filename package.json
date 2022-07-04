@@ -31,7 +31,6 @@
         "dbaeumer.vscode-eslint",
         "xabikos.javascriptsnippets",
         "jasonnutter.search-node-modules",
-        "eg2.vscode-npm-script",
         "christian-kohler.npm-intellisense",
         "christian-kohler.path-intellisense"
     ]
